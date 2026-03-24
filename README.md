@@ -1,0 +1,1 @@
+This project performs end-to-end data analysis on import-export datasets to understand trade patterns over time. It involves data cleaning, feature engineering, exploratory data analysis (EDA), and time series analysis to uncover trends and seasonal variations in trade data.
